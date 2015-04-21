@@ -1,8 +1,0 @@
-[01:47:09 2015-04-22] [INFOM] {src/socks5/socks5.c:176} socks5 starting ...
-[01:47:27 2015-04-22] [ERROR] {src/socks5/socks5.c:602} connect error.
-[01:47:27 2015-04-22] [ERROR] {src/socks5/socks5.c:671} auth error.
-[01:47:36 2015-04-22] [ERROR] {src/socks5/socks5.c:602} connect error.
-[01:47:36 2015-04-22] [ERROR] {src/socks5/socks5.c:671} auth error.
-[01:47:46 2015-04-22] [ERROR] {src/socks5/socks5.c:602} connect error.
-[01:47:46 2015-04-22] [ERROR] {src/socks5/socks5.c:671} auth error.
-[01:47:49 2015-04-22] [INFOM] {src/socks5/socks5.c:300} signal [2], exit.

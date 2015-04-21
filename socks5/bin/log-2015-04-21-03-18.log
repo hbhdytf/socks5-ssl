@@ -1,5 +1,0 @@
-[03:18:32 2015-04-21] [ERROR] {src/socks5/socks5.c:595} connect error.
-[03:18:32 2015-04-21] [ERROR] {src/socks5/socks5.c:657} auth error.
-[03:18:43 2015-04-21] [ERROR] {src/socks5/socks5.c:595} connect error.
-[03:18:43 2015-04-21] [ERROR] {src/socks5/socks5.c:657} auth error.
-[03:18:43 2015-04-21] [ERROR] {src/socks5/socks5.c:776} read error [0].

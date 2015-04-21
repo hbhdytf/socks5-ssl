@@ -1,6 +1,0 @@
-[23:37:02 2015-04-20] [INFOM] {src/socks5/socks5.c:58} socks5 starting ...
-[23:37:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
-[23:37:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
-[23:37:36 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
-[23:37:36 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
-[23:39:43 2015-04-20] [INFOM] {src/socks5/socks5.c:182} signal [2], exit.
