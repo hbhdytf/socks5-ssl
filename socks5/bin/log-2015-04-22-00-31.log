@@ -1,0 +1,3 @@
+[00:31:17 2015-04-22] [INFOM] {src/socks5/socks5.c:176} socks5 starting ...
+[00:31:43 2015-04-22] [ERROR] {src/socks5/socks5.c:524} go to error [11].
+[00:31:43 2015-04-22] [ERROR] {src/socks5/socks5.c:671} auth error.

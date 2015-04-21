@@ -1,0 +1,15 @@
+generating certificates
+openssl req -x509 -nodes -days 365 -newkey rsa:1024 -keyout mycert.pem -out mycert.pem
+
+compiling
+g++ ssl-server.cpp -Wall -lssl -lcrypto -o ssl-server
+g++ ssl-client.cpp -Wall -lssl -lcrypto -o ssl-client
+
+running
+./ssl-server <port>
+<<in another terminal>>
+./ssl-client <address> <port>
+
+
+WARNING:
+You need to have libssl-dev installed to compile

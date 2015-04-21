@@ -1,0 +1,282 @@
+[23:39:56 2015-04-20] [INFOM] {src/socks5/socks5.c:58} socks5 starting ...
+[23:44:42 2015-04-20] [ERROR] {src/socks5/socks5.c:365} connect error.
+[23:44:42 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:45:08 2015-04-20] [ERROR] {src/socks5/socks5.c:365} connect error.
+[23:45:08 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:47:03 2015-04-20] [ERROR] {src/socks5/socks5.c:365} connect error.
+[23:47:03 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:47:56 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:47:56 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:47:56 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:47:56 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:47:56 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:47:56 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:47:57 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:47:57 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:47:57 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:47:57 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:02 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:02 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:02 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:02 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:02 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:02 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:03 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:03 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:03 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:03 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:09 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:09 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:09 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:09 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:09 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:09 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:10 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:10 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:10 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:10 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:17 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:17 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:17 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:17 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:18 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:18 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:18 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:18 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:18 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:18 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:21 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:21 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:21 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:21 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:21 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:21 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:22 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:22 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:30 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:32 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:32 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:32 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:32 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:32 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:32 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:34 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:34 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:34 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:34 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:48:34 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:48:34 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:16 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:16 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:38 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:38 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:38 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:38 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:41 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:41 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:48 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:48 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:49 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:49 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:49 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:49 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:50 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:50 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:50 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:50 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:50 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:50 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:51 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:51 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:56 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [0].
+[23:49:56 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:49:58 2015-04-20] [ERROR] {src/socks5/socks5.c:288} go to error [11].
+[23:49:58 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:00 2015-04-20] [ERROR] {src/socks5/socks5.c:288} go to error [11].
+[23:50:00 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:02 2015-04-20] [ERROR] {src/socks5/socks5.c:288} go to error [11].
+[23:50:02 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:04 2015-04-20] [ERROR] {src/socks5/socks5.c:288} go to error [11].
+[23:50:04 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:288} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:19 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:19 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:24 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:24 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:46 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:46 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:50:54 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:50:54 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:51:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:51:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:51:54 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:51:54 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:52:00 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:52:00 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:52:06 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:52:06 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:52:16 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:52:16 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:53:01 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:53:01 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:53:46 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:53:46 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:54:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:54:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:54:42 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:54:42 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:55:08 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:55:08 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:55:16 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:55:16 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:01 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:01 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:23 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:23 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:25 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:25 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:28 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:28 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:33 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:33 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:42 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:42 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:46 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:46 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:54 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:54 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:56:59 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:56:59 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:57:00 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:57:00 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:57:31 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:57:31 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:58:16 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:58:16 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:59:01 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:59:01 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[23:59:46 2015-04-20] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[23:59:46 2015-04-20] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:00:31 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:00:31 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:01:16 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:01:16 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:02:00 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:02:00 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:02:01 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:02:01 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:02:01 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:02:01 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:02:46 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:02:46 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:03:31 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:03:31 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:04:16 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:04:16 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:04:42 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:04:42 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:05:01 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:05:01 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:05:08 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:05:08 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:05:46 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:05:46 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:06:31 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:06:31 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:06:54 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:06:54 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:00 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:00 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:06 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:06 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:16 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:16 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:44 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:44 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:44 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:44 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:45 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:45 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:45 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:45 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:45 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:45 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:46 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:46 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:46 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:46 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:46 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:46 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:46 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:46 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:47 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:47 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:47 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:47 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:50 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:50 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:51 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:51 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:51 2015-04-21] [ERROR] {src/socks5/socks5.c:289} go to error [11].
+[00:07:51 2015-04-21] [ERROR] {src/socks5/socks5.c:427} auth error.
+[00:07:56 2015-04-21] [INFOM] {src/socks5/socks5.c:182} signal [2], exit.

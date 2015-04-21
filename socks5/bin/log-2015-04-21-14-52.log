@@ -1,0 +1,19 @@
+[14:52:37 2015-04-21] [INFOM] {src/socks5/socks5.c:170} socks5 starting ...
+[14:54:01 2015-04-21] [ERROR] {src/socks5/socks5.c:777} read error [0].
+[14:54:51 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].
+[14:54:54 2015-04-21] [ERROR] {src/socks5/socks5.c:658} auth error.
+[14:56:14 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].
+[14:56:16 2015-04-21] [ERROR] {src/socks5/socks5.c:658} auth error.
+[14:56:36 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].
+[14:56:38 2015-04-21] [ERROR] {src/socks5/socks5.c:658} auth error.
+[14:56:56 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].
+[14:56:58 2015-04-21] [ERROR] {src/socks5/socks5.c:658} auth error.
+[14:57:16 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].
+[14:57:17 2015-04-21] [ERROR] {src/socks5/socks5.c:658} auth error.
+[14:57:37 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].
+[14:57:38 2015-04-21] [ERROR] {src/socks5/socks5.c:658} auth error.
+[14:57:59 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].
+[14:58:00 2015-04-21] [ERROR] {src/socks5/socks5.c:658} auth error.
+[14:58:57 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].
+[14:59:31 2015-04-21] [ERROR] {src/socks5/socks5.c:658} auth error.
+[15:00:11 2015-04-21] [ERROR] {src/socks5/socks5.c:588} go to error [32].

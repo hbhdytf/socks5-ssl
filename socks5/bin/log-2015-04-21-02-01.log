@@ -1,0 +1,14 @@
+[02:01:52 2015-04-21] [ERROR] {src/socks5/socks5.c:399} go to error [0].
+[02:01:52 2015-04-21] [ERROR] {src/socks5/socks5.c:655} auth error.
+[02:01:54 2015-04-21] [ERROR] {src/socks5/socks5.c:399} go to error [0].
+[02:01:54 2015-04-21] [ERROR] {src/socks5/socks5.c:655} auth error.
+[02:01:54 2015-04-21] [ERROR] {src/socks5/socks5.c:399} go to error [0].
+[02:01:54 2015-04-21] [ERROR] {src/socks5/socks5.c:655} auth error.
+[02:02:11 2015-04-21] [ERROR] {src/socks5/socks5.c:399} go to error [0].
+[02:02:11 2015-04-21] [ERROR] {src/socks5/socks5.c:655} auth error.
+[02:02:51 2015-04-21] [ERROR] {src/socks5/socks5.c:399} go to error [4].
+[02:02:51 2015-04-21] [ERROR] {src/socks5/socks5.c:655} auth error.
+[02:02:56 2015-04-21] [ERROR] {src/socks5/socks5.c:399} go to error [4].
+[02:02:56 2015-04-21] [ERROR] {src/socks5/socks5.c:655} auth error.
+[02:03:05 2015-04-21] [ERROR] {src/socks5/socks5.c:399} go to error [4].
+[02:03:05 2015-04-21] [ERROR] {src/socks5/socks5.c:655} auth error.

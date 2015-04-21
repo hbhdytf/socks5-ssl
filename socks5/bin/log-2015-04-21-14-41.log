@@ -1,0 +1,7 @@
+[14:41:58 2015-04-21] [INFOM] {src/socks5/socks5.c:170} socks5 starting ...
+[14:42:53 2015-04-21] [ERROR] {src/socks5/socks5.c:657} auth error.
+[14:43:13 2015-04-21] [ERROR] {src/socks5/socks5.c:657} auth error.
+[14:44:01 2015-04-21] [ERROR] {src/socks5/socks5.c:657} auth error.
+[14:45:10 2015-04-21] [ERROR] {src/socks5/socks5.c:657} auth error.
+[14:45:36 2015-04-21] [ERROR] {src/socks5/socks5.c:657} auth error.
+[14:46:15 2015-04-21] [ERROR] {src/socks5/socks5.c:657} auth error.
